@@ -1,0 +1,31 @@
+# IntelliJ / JetBrains
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Node / npm
+node_modules/
+dist/
+build/
+
+# Systemfiler (Windows / OneDrive)
+Thumbs.db
+desktop.ini
+*.tmp
+*.lnk
+*.sync
+~$*
+
+# ZIP och arkiv
+*.zip
+*.rar
+*.7z
+
+# Loggar
+*.log
+
+# Backupfiler
+*.bak
+*.old
